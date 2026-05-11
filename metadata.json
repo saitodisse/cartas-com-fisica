@@ -1,0 +1,6 @@
+{
+  "name": "Card Physics Sandbox",
+  "description": "Um simulador realista de física para cartas de baralho, permitindo jogar, empilhar e interagir com as cartas em uma mesa de feltro.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
